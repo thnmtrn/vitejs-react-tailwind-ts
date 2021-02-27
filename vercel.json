@@ -1,0 +1,7 @@
+{
+  "name": "vitejs-wabbit",
+  "regions": ["syd1"],
+  "github": {
+    "autoJobCancelation": false
+  }
+}
